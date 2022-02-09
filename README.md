@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://github.com/alexzanini">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alexzanini&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzanini&layout=compact&langs_count=7&theme=merko"/>
+  <a href="https://github.com/AlexZanini">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AlexZanini&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZanini&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
   <div style="display: inline_block"><br>
