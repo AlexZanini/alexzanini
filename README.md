@@ -1,6 +1,6 @@
 ### Olá, eu sou Alex Zanini.
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Front-end
 - 📫 alexzanini83@hotmail.com
 
 <!--
