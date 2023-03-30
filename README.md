@@ -1,8 +1,8 @@
 ### Olá, eu sou Alex Zanini.
 
 - DesenvolvedorFront-end
-- alexsandrozanini.dev@gmail.com
 -  <a href="https://alexzanini.tech/" target="_blank"> https://alexzanini.tech/</a>
+- alexsandrozanini.dev@gmail.com
 
 <!--
 **AlexZanini/alexzanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
