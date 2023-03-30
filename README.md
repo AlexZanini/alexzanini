@@ -2,7 +2,7 @@
 
 - DesenvolvedorFront-end
 - alexsandrozanini.dev@gmail.com
-- https://alexzanini.tech/
+-  <a href="https://alexzanini.tech/" target="_blank"> https://alexzanini.tech/</a>
 
 <!--
 **AlexZanini/alexzanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
