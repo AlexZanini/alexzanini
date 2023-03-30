@@ -1,7 +1,8 @@
 ### Olá, eu sou Alex Zanini.
 
-- 🌱 Estudando Front-end
-- 📫 alexzanini83@hotmail.com
+- DesenvolvedorFront-end
+- alexsandrozanini.dev@gmail.com
+- https://alexzanini.tech/
 
 <!--
 **AlexZanini/alexzanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
   
   <div> 
  
-  <a href="https://www.instagram.com/alexzanini_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <a href="https://www.instagram.com/alexzanini_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/alexsandro-zanini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
