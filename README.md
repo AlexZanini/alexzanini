@@ -1,6 +1,6 @@
 ### Olá, eu sou Alex Zanini.
 
-- DesenvolvedorFront-end
+- Desenvolvedor Front-end
 -  <a href="https://alexzanini.com.br" target="_blank"> https://alexzanini.com.br</a>
 - alexsandrozanini.dev@gmail.com
 
